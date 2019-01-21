@@ -18,15 +18,10 @@ paginate = 5
 # alt = "Your example logo alt text"
 
 [menu]
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about"
-    
-  # [[menu.main]]
-  #   identifier = "showcase"
-  #   name = "Showcase"
-  #   url = "/showcase"
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
 
 [languages]
   [languages.en]
