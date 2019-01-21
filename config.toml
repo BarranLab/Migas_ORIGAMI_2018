@@ -6,9 +6,13 @@ copyright = ""
 paginate = 5
 
 [params]
-  subtitle = "A simple theme for Hugo"
+  subtitle = ""
   # "light" or "dark"
   defaultTheme = "dark"
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = ["justify.css"]
 
 [params.logo]
   logoText = "ORIGAMI 2018/19"
