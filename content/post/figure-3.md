@@ -9,7 +9,7 @@ description = "Figure 3 - Application to a dataset of high dimensionality"
 
 Data reduction results of five different algorithms performed on the MNIST database of handwritten digits.[<sup>32</sup>](https://ieeexplore.ieee.org/document/726791) Individual scatter plots reveal how effective each algorithm is in segregating digits. Each item in the legend can be toggled on and off, enabling hiding of parts of the figure. Dragging the mouse in the plot area will zoom in on the select part of the plot where overlaid items are easier to interrogate.
 
-[Open in another tab](https://lukasz-migas.com/assets/_migas_origami_2018/Figure_3.html)
+[Open in another tab](https://migas-origami-interactive.netlify.com/assets/figure_3.html)
 
 ## Interactive figure
 
@@ -17,7 +17,7 @@ Data reduction results of five different algorithms performed on the MNIST datab
     width="1000" 
     frameborder="0" 
     height="1150"
-    src="https://lukasz-migas.com/assets/_migas_origami_2018/Figure_3.html"
+    src="https://migas-origami-interactive.netlify.com/assets/figure_3.html"
     style="background: #FFFFFF;"
 ></iframe>
 
