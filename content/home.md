@@ -1,6 +1,11 @@
-# Migas_ORIGAMI_2018
++++
+title = "Home"
+date = "2019-01-26"
+author = "Lukasz Migas"
++++
+<h2>> Home<span class="logo__cursor" style="width: 3px; height: 1.625rem;"></span></h2>
 
-Please go to [this website](https://migas-origami-interactive.netlify.com/) to see each figure.
+Please click on any of the links below to be redirected to an interactive figure
 
 [Figure 1](https://migas-origami-interactive.netlify.com/assets/figure_1.html)
 

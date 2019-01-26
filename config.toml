@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-uk"
-title = "Interactive figures - ORIGAMI 2018/19"
+title = "Migas - ORIGAMI 2019"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
@@ -10,12 +10,8 @@ paginate = 5
   # "light" or "dark"
   defaultTheme = "dark"
 
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  custom_css = ["justify.css"]
-
 [params.logo]
-  logoText = "ORIGAMI 2018/19"
+  logoText = "Migas - ORIGAMI 2019"
   # or
   #
 # path = "/img/your-example-logo.svg"
@@ -26,6 +22,11 @@ paginate = 5
     identifier = "about"
     name = "About"
     url = "/about"
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/home"
 
 [languages]
   [languages.en]
